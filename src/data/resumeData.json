@@ -1,0 +1,156 @@
+{
+    "name": "Vimal Suresh T",
+    "title": "Software Developer",
+    "summary": "Developer with  background in Java and JavaScript, specializing in MERN stack development. Passionate about solving complex problems and learning new technologies.",
+    "contact": {
+        "email": "vimalonboard69@gmail.com",
+        "phone": "+91-7736173889",
+        "linkedin": "https://www.linkedin.com/in/vimal-suresh-t-6273b0241/",
+        "github": "https://github.com/vimal7736"
+    },
+    "technologies": [
+        "React",
+        "JavaScript",
+        "Express",
+        "HTML",
+        "React Query",
+        "Node.js",
+        "MongoDB",
+        "CSS",
+        "Tailwind",
+        "Prisma",
+        "Git",
+        "Java"
+    ],
+    "programming_languages": [
+        {
+            "name": "Java",
+            "description": "Experienced in OOP, Data Structures, Algorithms, Multithreading, and more.",
+            "topics": [
+                "Object-Oriented Programming",
+                "Data Structures",
+                "Algorithms",
+                "Multithreading",
+                "Exception Handling",
+                "Java Streams",
+                "File I/O",
+                "Collections Framework"
+            ],
+            "problems_solved": [
+                {
+                    "title": "Binary Search Algorithm",
+                    "description": "Implemented binary search to find the index of an element in a sorted array.",
+                    "difficulty": "Medium",
+                    "code_link": "https://github.com/johndoe/java-problems/binary-search"
+                },
+                {
+                    "title": "Linked List Reversal",
+                    "description": "Reversed a singly linked list.",
+                    "difficulty": "Easy",
+                    "code_link": "https://github.com/johndoe/java-problems/linked-list-reversal"
+                }
+            ],
+            "assignments": [
+                {
+                    "title": "Implement a Stack using Arrays",
+                    "question": "Design and implement a stack data structure using arrays in Java.",
+                    "solution_link": "https://github.com/johndoe/java-assignments/stack-implementation"
+                },
+                {
+                    "title": "File Handling in Java",
+                    "question": "Write a Java program to read from and write to a file.",
+                    "solution_link": "https://github.com/johndoe/java-assignments/file-handling"
+                }
+            ]
+        },
+        {
+            "name": "JavaScript (React & Node.js)",
+            "description": "Proficient in building modern web applications using React and Node.js.",
+            "topics": [
+                "React Components",
+                "State and Props",
+                "Hooks",
+                "Context API",
+                "Routing",
+                "Express Framework",
+                "RESTful APIs",
+                "Middleware",
+                "Authentication"
+            ],
+            "projects": [
+                {
+                    "title": "Todo List App",
+                    "description": "Built a Todo List application using React with features like adding, editing, and deleting tasks.",
+                    "demo_link": "https://www.johndoe.com/todo-list",
+                    "code_link": "https://github.com/johndoe/react-projects/todo-list"
+                },
+                {
+                    "title": "E-commerce Backend",
+                    "description": "Developed a RESTful API for an e-commerce platform using Node.js and Express.",
+                    "demo_link": "https://www.johndoe.com/e-commerce-backend",
+                    "code_link": "https://github.com/johndoe/nodejs-projects/e-commerce-backend"
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B-Tech in Marine Engineer",
+            "school": "St.Josephs Boys Higher Secondary School",
+            "graduation_year": 2015
+        }
+    ],
+    "experience": [
+        {
+            "title": "React-js Developer",
+            "company": "Tecbert LLP",
+            "duration": "September 2023 - Present",
+            "responsibilities": [
+                "Developed and maintained web applications using React",
+                "Collaborated with cross-functional teams to define, design, and ship new features.",
+                "Improved application performance by optimizing code and implementing best practices."
+            ]
+        },
+        {
+            "title": "React-js Developer",
+            "company": "Infinite Open Source Solutions LLP",
+            "duration": "December 2022 - August 2023",
+            "responsibilities": [
+                "Developed and maintained web applications using React",
+                "Assisted in database design and optimization.",
+                "Participated in code reviews and provided constructive feedback."
+            ],
+            "projects": [
+                "Time Tracking Software",
+                "Direct Selling software"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Filter Cart",
+            "description": "A filter project using queries and categories",
+            "technologies": [
+                "React",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://aishu-cart.vercel.app/",
+            "github": "https://github.com/vimal7736/AishuCart"
+        },
+        {
+            "title": "To Do",
+            "description": "A To do app with Mern technology.",
+            "technologies": [
+                "React",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://merntodo-silk.vercel.app/",
+            "github": "https://github.com/vimal7736/Todo/"
+        }
+    ]
+}
