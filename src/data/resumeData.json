@@ -151,6 +151,19 @@
             ],
             "link": "https://merntodo-silk.vercel.app/",
             "github": "https://github.com/vimal7736/Todo/"
+        },
+        {
+            "title": "Expense Tracker",
+            "description": "An expense tracking application built with the React, allowing users to track their income and expenses, add or delete transactions, and view the balance. It includes features like persistent state using localStorage.",
+            "technologies": [
+                "React",
+                "Context Api",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://income-expense-tracker-liard.vercel.app/", 
+            "github": "https://github.com/vimal7736/Expense-Tracker"  
         }
+        
     ]
 }
