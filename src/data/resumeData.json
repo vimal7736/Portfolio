@@ -151,8 +151,8 @@
                 "JavaScript"
             ],
             "link": "https://pawsbae-estate-frontend.vercel.app/",
-            "github-frontend": "https://github.com/vimal7736/pawsbae-estate-frontend",
-            "github-backend":"https://github.com/vimal7736/pawsbaeestate-back-end"
+            "github": "https://github.com/vimal7736/pawsbaeestate-back-end",
+            "frontend":"https://github.com/vimal7736/pawsbae-estate-frontend"
         },
         {
             "title": "To Do",
