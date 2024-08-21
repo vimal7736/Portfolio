@@ -139,6 +139,22 @@
             "github": "https://github.com/vimal7736/AishuCart"
         },
         {
+            "title": "PawsBaeEstate",
+            "description": "Full stack React, Node.js Real Estate App",
+            "technologies": [
+                "React",
+                "Node.js",
+                "Express",
+                "Prisma",
+                "MongoDB",
+                "SCSS",
+                "JavaScript"
+            ],
+            "link": "https://pawsbae-estate-frontend.vercel.app/",
+            "github-frontend": "https://github.com/vimal7736/pawsbae-estate-frontend",
+            "github-backend":"https://github.com/vimal7736/pawsbaeestate-back-end"
+        },
+        {
             "title": "To Do",
             "description": "A To do app with Mern technology.",
             "technologies": [
