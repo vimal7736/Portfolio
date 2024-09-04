@@ -9,7 +9,9 @@
         "github": "https://github.com/vimal7736"
     },
     "technologies": [
-        "React",
+        "React js",
+        "Clerk",
+        "Supabase",
         "JavaScript",
         "Express",
         "HTML",
@@ -142,12 +144,30 @@
                 "bussiness Development Executive"
             ]
             
+        },
+        {
+            "title": "Marine Engineer",
+            "company": "Nautilus Shipping Co.",
+            "duration": "6 months",
+            "responsibilities": [
+                "Engine Maintanance"
+            ]
+            
+        },
+        {
+            "title": "Trainee Marine Engineer",
+            "company": "Albatross Shipping Co.",
+            "duration": "6 months",
+            "responsibilities": [
+                "Engine Maintanance"
+            ]
+            
         }
     ],
     "projects": [
         {
-            "title": "Ongoing Vimal Job portal Project",
-            "description": "Full Stack Job portal with react , tailwind, Supabase, shadcn ui, clerk",
+            "title": "Ongoing Job Portal",
+            "description": "A comprehensive full-stack job portal developed using React, Tailwind CSS, Supabase, ShadCN UI, and Clerk. The platform allows users to post jobs, apply for positions, and manage applications with seamless authentication and database integration. A modern solution for job seekers and recruiters.",
             "technologies": [
                 "React",
                 "Supabase",
@@ -162,7 +182,7 @@
         },
         {
             "title": "Expense Tracker",
-            "description": "An expense tracking application built with the React, allowing users to track their income and expenses, add or delete transactions, and view the balance. It includes features like persistent state using localStorage.",
+            "description": "A user-friendly expense tracking application built with React. It allows users to add, delete, and track transactions while maintaining a persistent state using localStorage. The app provides a clear view of income, expenses, and the current balance, making financial management simple and efficient.",
             "technologies": [
                 "React",
                 "Context Api",
@@ -174,7 +194,7 @@
         },
         {
             "title": "Filter Cart",
-            "description": "A filter project using queries and categories",
+            "description": "A dynamic e-commerce filter cart project built with React, focusing on filtering products using queries and categories. The application provides a seamless user experience with a clean UI, enabling users to search, filter, and browse products effortlessly, enhancing shopping convenience and satisfaction.",
             "technologies": [
                 "React",
                 "CSS",
@@ -185,7 +205,7 @@
         },
         {
             "title": "PawsBaeEstate",
-            "description": "Full stack React, Node.js Real Estate App",
+            "description": "A full-stack real estate application developed using React, Node.js, Express, Prisma, and MongoDB. It enables users to browse, list, and manage real estate properties. The app offers a robust backend with a user-friendly frontend, combining modern design with powerful functionality for property management.",
             "technologies": [
                 "React",
                 "Node.js",
@@ -201,7 +221,7 @@
         },
         {
             "title": "To Do",
-            "description": "A To do app with Mern technology.",
+            "description": "A versatile to-do app developed with the MERN stack (MongoDB, Express, React, Node.js). It allows users to create, update, and manage tasks efficiently. The application features a responsive design, ensuring usability across devices, making task management simple, organized, and accessible..",
             "technologies": [
                 "React",
                 "Node.js",
