@@ -146,7 +146,7 @@
     ],
     "projects": [
         {
-            "title": "Vimal Job portal",
+            "title": "Ongoing Vimal Job portal Project",
             "description": "Full Stack Job portal with react , tailwind, Supabase, shadcn ui, clerk",
             "technologies": [
                 "React",
@@ -158,7 +158,7 @@
                 "JavaScript"
             ],
             "link": "https://jobportal-silk.vercel.app/", 
-            "github": "https://github.com/vimal7736/Expense-Tracker"  
+            "github": "https://github.com/vimal7736/jobportal"  
         },
         {
             "title": "Expense Tracker",
