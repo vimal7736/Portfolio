@@ -18,7 +18,9 @@ const Overview = () => {
                     <li>Phone: <a href={`tel:${resumeData.contact.phone}`}>{resumeData.contact.phone}</a></li>
                     <li>LinkedIn: <a href={resumeData.contact.linkedin} target='_blank' without rel="noreferrer"  >{resumeData.contact.linkedin}</a></li>
                     <li>GitHub: <a href={resumeData.contact.github} target="_blank" rel="noopener noreferrer">{resumeData.contact.github}</a></li>
+
                     <li>Website: <a href={resumeData.contact.website} target="_blank" rel="noopener noreferrer">{resumeData.contact.website}</a></li>
+
                 </ul>
             </section>
 
@@ -47,8 +49,13 @@ const Overview = () => {
                                 ))}
                             </div>
                             <div className="project-links">
-                                <a href={project.link} target="_blank" rel="noopener noreferrer">Live Demo</a>
-                                <a href={project.github} target="_blank" rel="noopener noreferrer">GitHub</a>
+                                {project.title !== "PawsBaeEstate" ?
+
+                                    (<a className="tech-badge" href={project.link} target="_blank" rel="noopener noreferrer">Live Demo</a>) :
+                                    (<a className="tech-badge" >On going Project</a>)
+                                }
+
+                                <a className="tech-badge" href={project.github} target="_blank" rel="noopener noreferrer">GitHub</a>
                             </div>
                         </div>
                     ))}
@@ -70,9 +77,9 @@ const Overview = () => {
                         </ul>
 
                         {job.projects && (
-                        
+
                             <ul>
-                            <h1>Project</h1>
+                                <h1>Project</h1>
 
                                 {job?.projects?.map((projects, i) => (
                                     <li key={i}>{projects}</li>
