@@ -181,6 +181,17 @@
             "github": "https://github.com/vimal7736/jobportal"  
         },
         {
+            "title": "Making Custom Hooks",
+            "description": "Making Helpfull hooks for my projects for easy web development",
+            "technologies": [
+                "React",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://customhook-nu.vercel.app/", 
+            "github": "https://github.com/vimal7736/customhook"  
+        },
+        {
             "title": "Expense Tracker",
             "description": "A user-friendly expense tracking application built with React. It allows users to add, delete, and track transactions while maintaining a persistent state using localStorage. The app provides a clear view of income, expenses, and the current balance, making financial management simple and efficient.",
             "technologies": [
@@ -204,7 +215,7 @@
             "github": "https://github.com/vimal7736/AishuCart"
         },
         {
-            "title": "PawsBaeEstate",
+            "title": "Ongoing Fullstack",
             "description": "A full-stack real estate application developed using React, Node.js, Express, Prisma, and MongoDB. It enables users to browse, list, and manage real estate properties. The app offers a robust backend with a user-friendly frontend, combining modern design with powerful functionality for property management.",
             "technologies": [
                 "React",
@@ -215,7 +226,7 @@
                 "SCSS",
                 "JavaScript"
             ],
-            "link": "https://pawsbae-estate-frontend.vercel.app/",
+            "link": "https://github.com/vimal7736/pawsbae-estate-frontend",
             "github": "https://github.com/vimal7736/pawsbaeestate-back-end",
             "frontend":"https://github.com/vimal7736/pawsbae-estate-frontend"
         },
