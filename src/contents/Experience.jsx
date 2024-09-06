@@ -7,11 +7,11 @@ const ExperienceSection = ({ experiences }) => {
       <h2 className="text-2xl font-semibold mb-4">Experience</h2>
       <div className="space-y-6">
         {experiences.experience.map((exp, index) => (
-          <Card key={index} className="bg-white shadow-md rounded-lg">
+          <Card key={index} className="bg-gray-400 shadow-md rounded-lg">
             <CardHeader>
               <CardTitle className="text-xl font-semibold">{exp.title}</CardTitle>
-              <p className="text-gray-500">{exp.company}</p>
-              <p className="text-gray-400">{exp.duration}</p>
+              <p className="text-gray-500 text-xl">{exp.company}</p>
+              <p className="text-gray-500">{exp.duration}</p>
             </CardHeader>
             <CardContent>
               <ul className="list-disc list-inside text-gray-600">
