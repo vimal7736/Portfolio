@@ -166,19 +166,19 @@
     ],
     "projects": [
         {
-            "title": " Registration & Authentication ",
-            "description": "A comprehensive full-stack job portal developed using React, Tailwind CSS, Supabase, ShadCN UI, and Clerk. The platform allows users to post jobs, apply for positions, and manage applications with seamless authentication and database integration. A modern solution for job seekers and recruiters.",
+            "title": " JWT Authentication ",
+            "description": "Complete Login and Signup with MERN Stack, MongoDB, Express, React and Node Authentication",
             "technologies": [
                 "React",
-                "Supabase",
-                "clerk",
-                "shadcn ui",
+                "Node.js",
+                "Mongo DB",
+                "JWT",
                 "Tailwind",
-                "CSS",
+                "Express",
                 "JavaScript"
             ],
-            "link": "https://jobportal-silk.vercel.app/", 
-            "github": "https://github.com/vimal7736/jobportal"  
+            "link": "https://jwtauth-five.vercel.app/", 
+            "github": "https://github.com/vimal7736/jwtAuth/tree/main"  
         },
         {
             "title": "Ongoing Job Portal",
@@ -256,8 +256,8 @@
                 "CSS",
                 "JavaScript"
             ],
-            "link": "https://merntodo-silk.vercel.app/",
-            "github": "https://github.com/vimal7736/Todo/"
+            "link": "https://todo-isuy.vercel.app/",
+            "github": "https://github.com/vimal7736/todo/"
         }
        
         
